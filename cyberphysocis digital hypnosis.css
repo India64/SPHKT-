@@ -1,0 +1,172 @@
+body {
+    background-image: url(backgroundmakeit.jpg);
+    font-family: "Cooper Black";
+    border: none;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+#logo {
+  margin-top:-110px;
+  margin-left:0px;
+  height:100px;
+  border-radius:50%;
+}
+iframe {
+  margin-left:400px;
+}
+h1{
+    color:red;
+    font-size:50px;
+}
+
+#black {
+  width:100%;
+  margin-top : 34px;
+  background-color: black;
+  background-size:cover;
+}
+marquee{
+  font-size:35px;
+}
+H3{
+  margin-left:500px;
+  color:blue;
+}
+#title {
+    color: sandybrown;
+    font-family: calibri;
+}
+#product {
+  
+  color:rgb(255, 0, 0);
+}
+#hariaksh{
+  width:200px;
+  height:275px;
+  margin-left:550px;
+}
+#puru{
+  height:200px;
+  width:150px;
+  margin-left:550px;
+}
+#ip {
+  margin-top: 200px;
+  margin-left:400px;
+}
+#poster {
+  margin-top:100px;
+  margin-left: 550px;
+  height: 350px;
+  width: 200px;
+}
+
+#shankhin {
+  background-color: green;
+}
+#Shankhin {
+  background-color: greenyellow;
+}
+#puru {
+  background-color: blue;
+}
+#Puru {
+  background-color: aqua;
+}
+#Hariaksh {
+  background-color: red;
+}
+#hariaksh {
+  background-color: red;
+}
+#tejinder {
+  background-color: yellow;
+}
+#Tejinder {
+  background-color: maroon;
+}
+#menu li{
+    background-color: burlywood;
+    display: inline-block;
+    color : blue;
+    margin-left: 200px;
+    font-size:32px;
+}
+#menu {
+    background-color:coral;
+    
+}
+
+#menu li:hover {
+    background-color:black;
+    color: red;
+    font-size : 28px;
+
+}
+#tejinder {
+  margin-left:550px;
+  width:200px;
+  height:200px;
+}
+#shankhin {
+  height:200px;
+  width:200px;
+  margin-left:550px;
+}
+
+.dropbtn {
+  font-family: "Cooper Black";
+  background-color: burlywood;
+  display: inline-block;
+  color : blue;
+  margin-left: 50px;
+  font-size:32px;
+}
+  button {
+    border:none;
+    padding:none;
+  }
+  
+  
+  .dropdown {
+  
+    margin-top:-30px;
+    position: absolute;
+    display: inline-block;
+  }
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+#saviourinfo {
+  color:white;
+  font-size: 25px;
+}
+#ourmission{
+  color:#66CDAA
+  
+}
+#prd{
+  margin-left: 400px;
+}
+  
